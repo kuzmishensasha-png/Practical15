@@ -1,0 +1,35 @@
+{
+  "Characters": [
+    {
+      "Id": "10000021",
+      "Name": "Amber",
+      "Description": "Demo catalog profile. Use update to get live Project Ambr data.",
+      "Vision": "Pyro",
+      "Weapon": "Bow",
+      "Rarity": 4,
+      "ImageUrl": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Amber.png",
+      "ArtworkUrl": "https://gi.yatta.moe/assets/UI/UI_Gacha_AvatarImg_Amber.png",
+      "Region": "Mondstadt",
+      "SpecialStat": "ATK %",
+      "IsCustom": false,
+      "DetailsLoaded": true,
+      "BaseStats": [
+        {
+          "Name": "HP",
+          "BaseValue": 793,
+          "GrowthCurve": "GROW_CURVE_HP_S4"
+        },
+        {
+          "Name": "ATK",
+          "BaseValue": 19.5,
+          "GrowthCurve": "GROW_CURVE_ATTACK_S4"
+        },
+        {
+          "Name": "DEF",
+          "BaseValue": 50,
+          "GrowthCurve": "GROW_CURVE_DEFENSE_S4"
+        }
+      ]
+    }
+  ]
+}

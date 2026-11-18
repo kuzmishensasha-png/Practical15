@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "hero", "Name": "Hero", "Type": "warrior",
+    "MaxHealth": 120, "Health": 120, "Damage": 28,
+    "Armor": 8, "Resist": 10, "Speed": 100
+  },
+  {
+    "Id": "mage", "Name": "Mage", "Type": "mage",
+    "MaxHealth": 80, "Health": 80, "Damage": 30,
+    "Armor": 2, "Resist": 25, "Speed": 150
+  },
+  {
+    "Id": "goblin", "Name": "Goblin", "Type": "warrior",
+    "MaxHealth": 75, "Health": 75, "Damage": 18,
+    "Armor": 3, "Resist": 5, "Speed": 200
+  }
+]
